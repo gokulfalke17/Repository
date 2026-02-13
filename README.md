@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm **Gokul Falk**e</h1>
+<h1 align="center">Hi, I'm Gokul Falke</h1>
 <h3 align="center"> Jr. Java Developer | Spring Boot | REST APIs | Microservices | AWS </h3>
 
 <p align="center">
