@@ -25,13 +25,13 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate and growth-oriented Java Backend Developer currently working at TechPulse IT Services, Pune. I specialize in building secure, scalable, and maintainable applications using Java, Spring Boot, and REST APIs.
+I am a passionate and growth-oriented Java Backend Developer currently working at **TechPulse IT Services, Pune**. I specialize in building secure, scalable, and maintainable applications using Java, Spring Boot, and REST APIs.
 
 With strong fundamentals in OOP, data structures, and database design, I enjoy solving real-world backend challenges and optimizing system performance. I believe in writing clean, production-ready code and continuously improving code quality using tools like SonarQube.
 
-I have hands-on experience in developing full-stack applications and working in team-based environments using Agile methodologies. My technical interests lie in Microservices architecture, Cloud (AWS EC2 & S3), Docker, and backend system design.
+I have hands-on experience developing full-stack applications and working in Agile team environments. My technical interests lie in Microservices architecture, AWS cloud deployment (EC2 & S3), Docker containerization, and backend system design.
 
-I am highly motivated, quick to learn, and always open to exploring new technologies that help build reliable and scalable enterprise solutions. 
+I am highly motivated, quick to learn, and always eager to explore technologies that help build reliable and scalable enterprise solutions.
 
 ---
 
@@ -41,17 +41,17 @@ I am highly motivated, quick to learn, and always open to exploring new technolo
 - Developing enterprise-level Spring Boot applications  
 - Designing and implementing secure REST APIs  
 - Working with MySQL & database optimization  
-- Using SonarQube for code quality analysis :contentReference[oaicite:3]{index=3}  
+- Using SonarQube for code quality analysis  
 - Deploying applications on AWS EC2 & S3  
 
-### 🔹 Java Developer Intern – GSoft Solution (Aug 2024 – Nov 2025) :contentReference[oaicite:4]{index=4}
+### 🔹 Java Developer Intern – GSoft Solution (Aug 2024 – Nov 2025)
 - Built full-stack Car Rental System  
 - Designed backend REST APIs using Spring Boot  
 - Integrated React frontend  
 - Worked in Agile team environment  
 - Used Git for version control  
 
-### 🔹 Java Intern – Naresh i Technologies (Aug 2023 – Feb 2024) :contentReference[oaicite:5]{index=5}
+### 🔹 Java Intern – Naresh i Technologies (Aug 2023 – Feb 2024)
 - Guided trainees in Java & Spring  
 - Explained OOP & Design Patterns  
 - Reviewed and optimized code  
@@ -61,38 +61,63 @@ I am highly motivated, quick to learn, and always open to exploring new technolo
 ## 🚀 Technical Skills
 
 ### 💻 Backend & Core
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![J2EE](https://img.shields.io/badge/J2EE-blue?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
+
 ![Spring REST](https://img.shields.io/badge/REST_API-black?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
+
 ![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
 ![Servlet](https://img.shields.io/badge/Servlet-grey?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-grey?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+---
 
 ### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-grey?style=for-the-badge)
+![AJAX](https://img.shields.io/badge/AJAX-blue?style=for-the-badge)
 
-### 🗄 Database
+---
+
+### 🗄 Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+---
 
 ### ☁ DevOps, Cloud & Tools
+
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-orange?style=for-the-badge&logo=amazonaws)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-blue?style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-green?style=for-the-badge)
+
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Agile](https://img.shields.io/badge/Agile-grey?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI_CD-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
