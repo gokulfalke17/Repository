@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gokul Falke</h1>
-<h3 align="center">Jr. Java Developer | Spring Boot | REST APIs | Microservices | AWS</h3>
+<h1 align="center">Hi, I'm **Gokul Falk**e</h1>
+<h3 align="center"> Jr. Java Developer | Spring Boot | REST APIs | Microservices | AWS </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Specialist;Microservices+Enthusiast;REST+API+Developer;AWS+Learner;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Microservices+Enthusiast;REST+API+Developer;AWS+Learner;Building+Scalable+Applications" />
 </p>
 
 <p align="center">
