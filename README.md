@@ -208,7 +208,21 @@ My goal is always to build software that is:
 
 ---
 
-## 📊 GitHub Statistics <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokulfalke17&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulfalke17&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=gokulfalke17&theme=tokyonight" /> </p> --- ## 📈 Contribution Activity [![Gokul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulfalke17&theme=tokyo-night)](https://github.com/gokulfalke17) ---
+## 📊 GitHub Statistics 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokulfalke17&show_icons=true&theme=tokyonight" /> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulfalke17&layout=compact&theme=tokyonight" /> </p> 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=gokulfalke17&theme=tokyonight" /> </p> 
+
+--- 
+
+## 📈 Contribution Activity 
+
+
+[![Gokul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulfalke17&theme=tokyo-night)](https://github.com/gokulfalke17) 
+
+---
+
 # 📫 Connect With Me
 
 📍 Pune, India  
