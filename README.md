@@ -10,18 +10,19 @@
 
 <p align="center">
   <a href="https://gokulfalke17.github.io/gokulfalke-portfolio-website/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gokul-falke-046a7824a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gokul%20Falke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gokul_Falke-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gokulfalke17@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Email-gokulfalke17@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+917350925310">
-    <img src="https://img.shields.io/badge/📱%20Call-+91%207350925310-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/Call-+91_7350925310-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
