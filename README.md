@@ -28,16 +28,11 @@
 
 # 👨‍💻 About Me
 
-I am a passionate Java Backend Developer focused on building secure, scalable, and high-performance applications using modern backend technologies.
+I am **Gokul Falke**, a dedicated and growth-oriented Java Full Stack Developer based in Pune, India.
 
-I specialize in:
+With hands-on experience in building enterprise-grade applications, I have worked on scalable backend systems and full-stack solutions across healthcare and business domains. I enjoy solving real-world problems through structured system design and clean architecture principles.
 
-• RESTful API Design  
-• Microservices Architecture  
-• Secure Authentication (JWT / OAuth2)  
-• Event-Driven Systems using Kafka  
-• Cloud-Ready Deployment  
-• Clean, Maintainable, Production-Grade Code  
+I am passionate about backend engineering, cloud technologies, and distributed systems. I continuously strive to improve my technical depth while building reliable, secure, and production-ready applications.
 
 I enjoy solving complex backend problems and designing reliable, scalable systems.
 
@@ -58,7 +53,10 @@ I enjoy solving complex backend problems and designing reliable, scalable system
 
 # 🚀 Featured Projects
 
----
+<div style="display:flex; overflow-x:auto; gap:20px; padding:20px 0;">
+
+<div style="min-width:320px; border-radius:15px; padding:20px; background:#111; color:white;">
+
 
 ## 🌍 CVS Health – Electronic Prescription Platform
 
@@ -74,7 +72,10 @@ Enterprise-scale healthcare microservices platform handling secure electronic pr
 
 **Tech Stack:** Java • Spring Boot • Kafka • Microservices • Kubernetes • REST APIs
 
----
+</div>
+
+<div style="min-width:320px; border-radius:15px; padding:20px; background:#1a1a1a; color:white;">
+
 
 ## 📚 Library Management System (Full-Stack)
 
@@ -90,7 +91,10 @@ Scalable web application for managing book inventory, users, and borrowing lifec
 
 **Tech Stack:** Java • Spring Boot • Spring Security • JPA • MySQL • React
 
----
+</div>
+
+<div style="min-width:320px; border-radius:15px; padding:20px; background:#111; color:white;">
+
 
 ## 🚘 Car Rental System (Full-Stack)
 
@@ -105,7 +109,10 @@ Secure booking and vehicle management system with admin workflow.
 
 **Tech Stack:** Spring Boot • JWT • MySQL • React • Bootstrap
 
----
+</div>
+
+<div style="min-width:320px; border-radius:15px; padding:20px; background:#1a1a1a; color:white;">
+
 
 ## 🏦 Bank Management System (ATM – Java 17)
 
@@ -120,7 +127,10 @@ GUI-based desktop banking application with secure transaction handling.
 
 **Tech Stack:** Java 17 • Swing • JDBC • MySQL
 
----
+</div>
+
+<div style="min-width:320px; border-radius:15px; padding:20px; background:#111; color:white;">
+
 
 ## 🍽 Restaurant Order Management System
 
@@ -135,7 +145,10 @@ Console-based modular billing and order management system.
 
 **Tech Stack:** Java 8 • JDBC • MySQL • Collections Framework
 
----
+</div>
+
+</div>
+
 
 # 💻 Technical Skills
 
@@ -239,15 +252,24 @@ Console-based modular billing and order management system.
 
 ---
 
-# 📫 Connect With Me
-
-📍 Pune, India  
-📧 gokulfalke17@gmail.com  
-🔗 linkedin.com/in/gokul-falke-046a7824a  
-🌐 gokulfalke17.github.io/gokulfalke-portfolio-website  
-
----
+<!-- ===================== CONTACT FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:1a1a1a,100:2C5364&section=header&text=Let's%20Connect&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">📫 Contact Information</h3>
+
+<p align="center">
+  📍 Pune, Maharashtra, India <br>
+  📧 gokulfalke17@gmail.com <br>
+  📱 +91 7350925310 <br>
+  🌐 <a href="https://gokulfalke17.github.io/gokulfalke-portfolio-website/" target="_blank">Portfolio Website</a> <br>
+  🔗 <a href="https://www.linkedin.com/in/gokul-falke-046a7824a" target="_blank">LinkedIn Profile</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:1a1a1a,100:000000&section=footer" />
 </p>
