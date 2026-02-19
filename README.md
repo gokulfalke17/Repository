@@ -1,23 +1,26 @@
-<!-- Animated Header -->
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:005BEA&height=230&section=header&text=Gokul%20Falke&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Gokul%20Falke&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | Microservices | AWS | Cloud-Native</h3>
+<h3 align="center">
+  Java Full Stack Developer • Spring Boot • Microservices • Cloud-Native Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=800&lines=Backend+Engineer;Microservices+Architecture+Specialist;Spring+Boot+Developer;Cloud+Enthusiast;Kafka+Event+Driven+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=900&lines=Backend+Engineer;Microservices+Architecture;Spring+Boot+Specialist;Event-Driven+Systems+with+Kafka;Cloud+Deployment+Enthusiast;Clean+Code+Advocate" />
 </p>
 
 <p align="center">
   <a href="https://gokulfalke17.github.io/gokulfalke-portfolio-website/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/gokul-falke-046a7824a">
-    <img src="https://img.shields.io/badge/LinkedIn-Gokul_Falke-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Gokul_Falke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gfalke888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gfalke888@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:gokulfalke17@gmail.com ">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -25,11 +28,41 @@
 
 # 👨‍💻 About Me
 
-I am a passionate and growth-oriented Java Backend Developer with strong experience in building secure, scalable, and high-performance applications using Java, Spring Boot, and Microservices architecture.
+I am a passionate Java Backend Developer focused on building secure, scalable, and high-performance applications using modern backend technologies.
 
-I have hands-on experience working on enterprise-level healthcare systems (US Client – CVS Health), event-driven architecture using Kafka, and full-stack application development using React.
+I specialize in:
 
-I focus on writing clean, production-ready code, implementing secure authentication systems, and designing scalable backend architectures.
+• Designing RESTful APIs  
+• Developing Microservices-based systems  
+• Implementing secure authentication (JWT / OAuth2)  
+• Building event-driven architectures using Kafka  
+• Deploying cloud-ready applications  
+• Writing clean, maintainable, production-grade code  
+
+I enjoy solving complex backend problems and designing systems that are reliable, scalable, and maintainable.
+
+---
+
+# 🏆 Professional Strengths & Value Proposition
+
+✔ Strong foundation in Core Java (OOP, Collections, Multithreading)  
+✔ Deep understanding of Spring Boot ecosystem  
+✔ Experience designing microservices communication patterns  
+✔ Strong database modeling & query optimization knowledge  
+✔ Secure API development using JWT & OAuth2  
+✔ Clean architecture & SOLID principles implementation  
+✔ Understanding of distributed system fundamentals  
+✔ Hands-on containerization using Docker  
+✔ Kubernetes deployment fundamentals  
+✔ Strong debugging and production issue analysis skills  
+
+I focus on delivering systems that are:
+
+• Scalable  
+• Secure  
+• Maintainable  
+• Performance-optimized  
+• Cloud-ready  
 
 ---
 
@@ -37,171 +70,173 @@ I focus on writing clean, production-ready code, implementing secure authenticat
 
 ---
 
-## 🌍 🏥 US Client Project – CVS Health (Microservices Architecture)
+## 🌍 CVS Health – Electronic Prescription Platform
 
-**Client:** US  
-**Domain:** Healthcare – Electronic Prescription Platform  
+Enterprise-scale healthcare microservices platform handling secure electronic prescription processing.
 
-A large-scale cloud-based healthcare system that processes electronic prescriptions from doctors via EHR/EMR systems and vendors like Surescripts.
+### Key Highlights
+- Built prescription intake microservices  
+- Implemented NCPDP XML validation & transformation  
+- Kafka-based event-driven routing  
+- Kubernetes-based cloud deployment  
+- High-volume distributed data processing  
+- Business rule engine implementation  
+- Implemented validation pipelines for secure healthcare compliance  
 
-### 🔥 Key Contributions
-
-- Developed microservices for prescription intake processing
-- Implemented NCPDP XML validation and schema conversion (2017 → 2023)
-- Designed Kafka-based event-driven routing system
-- Built scalable REST APIs using Spring Boot
-- Deployed services on Google Kubernetes Engine (GKE)
-- Worked with distributed databases for high-volume transaction processing
-- Ensured secure healthcare data compliance
-
-### 🛠 Tech Stack
-Java, Spring Boot, Microservices, Kafka, Kubernetes, GKE, REST APIs, Spanner DB, Gradle, Git
+**Tech Stack:**  
+Java • Spring Boot • Kafka • Microservices • Kubernetes • REST APIs • Distributed DB
 
 ---
 
-## 📚 Library Management System (Full-Stack Web Application)
+## 📚 Library Management System (Full-Stack)
 
-A complete full-stack application built using Spring Boot, Spring Security, JPA, MySQL, React & Bootstrap.
+Scalable web application for managing book inventory, users, and borrowing lifecycle.
 
-### 🔥 Features
+### Key Features
+- Role-based authentication with Spring Security  
+- Automated fine calculation logic  
+- REST API integration with React frontend  
+- Clean layered architecture  
+- Real-time inventory management  
+- Global exception handling & validation  
+- Optimized relational schema design  
 
-- Secure REST APIs using Spring Boot
-- Role-based authentication using Spring Security
-- Book issue/return workflow with automated fine calculation
-- Normalized relational database design
-- Real-time book availability tracking
-- Global exception handling & input validation
-- Integrated responsive React frontend
-
-### 🛠 Tech Stack
-Java, Spring Boot, Spring Security, JPA, Hibernate, MySQL, React, Bootstrap, Maven, Git
-
----
-
-## 🚘 Car Rental System (Full-Stack Web Application)
-
-A complete web application for managing car rentals with secure authentication and role-based workflows.
-
-### 🔥 Features
-
-- JWT-based authentication system
-- Car search & booking workflow
-- Admin approval process
-- Clean architecture & layered design
-- Secure REST API development
-- React frontend integration
-
-### 🛠 Tech Stack
-Java, Spring Boot, Spring Security, JWT, MySQL, React, Bootstrap, Maven, Git
+**Tech Stack:**  
+Java • Spring Boot • Spring Security • JPA • MySQL • React
 
 ---
 
-## 🏦 Bank Management System (GUI-Based ATM – Java 17)
+## 🚘 Car Rental System (Full-Stack)
 
-A Java Swing-based ATM simulation system with secure banking operations.
+Secure booking and vehicle management system with admin workflow.
 
-### 🔥 Features
+### Key Features
+- JWT Authentication  
+- Booking lifecycle management  
+- Clean architecture & separation of concerns  
+- Optimized database design  
+- Full-stack integration  
+- Secure user management  
 
-- Secure login & PIN authentication
-- Deposit, withdrawal, balance inquiry
-- Mini statement & transaction history
-- JDBC database integration
-- JUnit 5 testing
-- Input validation & secure transaction handling
-
-### 🛠 Tech Stack
-Java 17, Swing, JDBC, MySQL, JUnit, Git
+**Tech Stack:**  
+Spring Boot • JWT • MySQL • React • Bootstrap
 
 ---
 
-## 🍽 Restaurant Order Management System (Console-Based Application)
+## 🏦 Bank Management System (ATM – Java 17)
 
-A console-based Java application managing restaurant orders and billing operations.
+GUI-based desktop banking application with secure transaction handling.
 
-### 🔥 Features
+### Key Features
+- Secure login & PIN validation  
+- Deposit & withdrawal processing  
+- Transaction history & mini statement  
+- JDBC integration  
+- JUnit testing  
+- Exception handling & validation  
 
-- Dynamic order management
-- Billing & tax calculation
-- MySQL database integration via JDBC
-- Java Collections for structured data handling
-- Spring Mail for email notifications
-- Modular and maintainable architecture
+---
 
-### 🛠 Tech Stack
-Java 8, JDBC, MySQL, Collections Framework, Spring Mail, Git
+## 🍽 Restaurant Order Management System
+
+Console-based modular billing and order management system.
+
+### Key Features
+- Structured OOP design  
+- Billing & tax logic  
+- Database-backed transaction storage  
+- Email notifications  
+- Modular architecture  
+
+---
+
+# 📈 Engineering Approach & Development Philosophy
+
+I follow a structured development approach:
+
+1. Requirement understanding & system breakdown  
+2. Designing scalable architecture  
+3. Defining API contracts clearly  
+4. Database schema normalization  
+5. Implementing clean service-layer logic  
+6. Applying proper exception handling  
+7. Securing endpoints with authentication  
+8. Writing modular & testable code  
+9. Optimizing performance  
+10. Preparing application for cloud deployment  
+
+My goal is always to build software that is:
+
+• Reliable in production  
+• Easy to maintain  
+• Easy to extend  
+• Secure by design  
+• Performance aware  
 
 ---
 
 # 💻 Technical Skills
 
-## 🔹 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka)
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
+![Spring Data JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-005BEA?style=flat-square)
 
-## 🔹 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
 
-## 🔹 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-## 🔹 DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![SonarQube](https://img.shields.io/badge/SonarQube-blue?style=for-the-badge)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 
 ---
 
-# 🧠 Architecture & Knowledge
+# 🔥 Currently Exploring
 
-- REST API Design
-- JWT & OAuth2 Authentication
-- Microservices Architecture
-- Event-Driven Systems using Kafka
-- Distributed Systems Concepts
-- Database Optimization
-- Clean Architecture
-- Exception Handling & Validation
-- Dockerizing Applications
-- Kubernetes Deployment Basics
-- AWS EC2, S3 & RDS Usage
+• Advanced System Design  
+• High Concurrency & Thread Optimization  
+• Distributed Transactions  
+• Observability (Micrometer, Zipkin)  
+• Advanced Kubernetes Workloads  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulfalke17&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulfalke17&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulfalke17&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokulfalke17&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gokulfalke17&theme=transparent" />
 </p>
 
 ---
 
-# 📫 Contact
+# 🐍 Contribution Graph
 
-📍 Pune, Maharashtra, India  
-📧 gfalke888@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/gokul-falke-046a7824a  
-🌐 Portfolio: https://gokulfalke17.github.io/gokulfalke-portfolio-website/  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gokulfalke17/gokulfalke17/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📍 Pune, India  
+📧 gokulfalke17@gmail.com  
+🔗 linkedin.com/in/gokul-falke-046a7824a  
+🌐 gokulfalke17.github.io/gokulfalke-portfolio-website  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005BEA,100:00C2FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer" />
 </p>
