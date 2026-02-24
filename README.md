@@ -165,6 +165,10 @@ Console-based modular billing and order management system.
 
 ## 💻 Technical Skills
 
+<table>
+<tr>
+<td>
+
 ### 🔹 Backend Technologies
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=1a1a1a" />
@@ -184,7 +188,16 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&labelColor=1a1a1a" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ### 🔹 Frontend Technologies
+
+<table>
+<tr>
+<td>
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&labelColor=1a1a1a" />
@@ -192,7 +205,16 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a1a" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ### 🔹 Cloud & AWS Services
+
+<table>
+<tr>
+<td>
+
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&labelColor=1a1a1a" />
@@ -206,6 +228,10 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&labelColor=1a1a1a" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ### 🔹 DevOps & Tools
 <p>
@@ -222,7 +248,16 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white&labelColor=1a1a1a" />
 </p>
 
+</td>
+</tr>
+</table>
+
 ### 🔹 Databases
+
+<table>
+<tr>
+<td>
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a1a" />
@@ -231,6 +266,10 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/DB%20Design-005BEA?style=flat-square&labelColor=1a1a1a" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
