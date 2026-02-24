@@ -37,8 +37,6 @@
 <tr>
 <td>
 
-## 👨‍💻 About Me
-
 I am **Gokul Falke**, a passionate and results-driven **Java Full Stack Developer** with strong expertise in building scalable, secure, and high-performance applications.
 
 I specialize in designing robust backend systems using modern Java technologies and developing full-stack solutions that solve real-world business problems. My experience includes working with microservices architectures, RESTful APIs, and cloud-native deployments to deliver reliable and production-ready software.
