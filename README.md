@@ -37,18 +37,19 @@
 <tr>
 <td>
 
-I am **Gokul Falke**, a dedicated and growth-oriented **Java Full Stack Developer** based in **Pune, India**.
+## 👨‍💻 About Me
 
-With hands-on experience in building enterprise-grade applications, I have worked on scalable backend systems and full-stack solutions across healthcare and business domains. I enjoy solving real-world problems with elegant technical solutions.
+I am **Gokul Falke**, a passionate and results-driven **Java Full Stack Developer** with strong expertise in building scalable, secure, and high-performance applications.
 
-I am passionate about:
-- ⚡ **Backend Engineering** – Building robust, scalable systems
-- 🌐 **Cloud Technologies** – AWS, Kubernetes, Docker
-- 🔄 **Distributed Systems** – Microservices, Event-Driven Architecture
-- 📊 **Data Management** – Database optimization and design
+I specialize in designing robust backend systems using modern Java technologies and developing full-stack solutions that solve real-world business problems. My experience includes working with microservices architectures, RESTful APIs, and cloud-native deployments to deliver reliable and production-ready software.
 
-I continuously strive to improve my technical depth while building reliable, secure, and production-ready applications that make an impact.
+### 🔍 Core Focus Areas
+- ⚡ **Backend Engineering** – Scalable system design and clean architecture  
+- 🔄 **Microservices & Distributed Systems** – Event-driven and resilient application design  
+- ☁️ **Cloud & DevOps** – Containerization, orchestration, and CI/CD practices  
+- 📊 **Database Design & Optimization** – Performance tuning and efficient data modeling  
 
+I am committed to continuous learning, improving system design skills, and building technology solutions that create meaningful business impact.
 </td>
 </tr>
 </table>
@@ -236,9 +237,6 @@ Console-based modular billing and order management system.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gokulfalke17&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
 
 ---
 
