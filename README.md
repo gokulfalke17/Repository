@@ -53,121 +53,166 @@ I am committed to continuous learning, improving system design skills, and build
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td>
+<div align="center">
 
+<!-- ===================== PROJECT 1 ===================== -->
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<h3>
+  <span style="color:#00BFFF;">🌍 CVS Health – Electronic Prescription Platform</span>
+</h3>
 
-### 🌍 **CVS Health – Electronic Prescription Platform**
+<p>
+Enterprise-scale <b>healthcare microservices platform</b> handling secure electronic prescription processing.
+</p>
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; border-left: 4px solid #00BFFF;">
+<p><b>🎯 Key Highlights</b></p>
 
-Enterprise-scale **healthcare microservices platform** handling secure electronic prescription processing.
+<p>
+✅ Built prescription intake microservices <br>
+✅ Implemented NCPDP XML validation & transformation <br>
+✅ Kafka-based event-driven routing <br>
+✅ Kubernetes-based cloud deployment <br>
+✅ High-volume distributed data processing <br>
+✅ Business rule engine implementation
+</p>
 
-**🎯 Key Highlights:**
-- ✅ Built prescription intake microservices
-- ✅ Implemented NCPDP XML validation & transformation
-- ✅ Kafka-based event-driven routing
-- ✅ Kubernetes-based cloud deployment
-- ✅ High-volume distributed data processing
-- ✅ Business rule engine implementation
+<p><b>💻 Tech Stack</b></p>
 
-**💻 Tech Stack:**  
-`Java` • `Spring Boot` • `Kafka` • `Microservices` • `Kubernetes` • `REST APIs`
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+</p>
 
-</div>
+---
 
-### 📚 **Library Management System (Full-Stack)**
+<!-- ===================== PROJECT 2 ===================== -->
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-left: 4px solid #00BFFF;">
+<h3>
+  <span style="color:#A66CFF;">📚 Library Management System (Full-Stack)</span>
+</h3>
 
+<p>
 Scalable web application for managing book inventory, users, and borrowing lifecycle.
+</p>
 
-**🎯 Key Features:**
-- ✅ Role-based authentication with Spring Security
-- ✅ Automated fine calculation logic
-- ✅ REST API integration with React frontend
-- ✅ Clean layered architecture
-- ✅ Real-time inventory management
-- ✅ Global exception handling & validation
+<p><b>🎯 Key Features</b></p>
 
-**💻 Tech Stack:**  
-`Java` • `Spring Boot` • `Spring Security` • `JPA` • `MySQL` • `React`
+<p>
+✅ Role-based authentication with Spring Security <br>
+✅ Automated fine calculation logic <br>
+✅ REST API integration with React frontend <br>
+✅ Clean layered architecture <br>
+✅ Real-time inventory management
+</p>
 
-</div>
+<p><b>💻 Tech Stack</b></p>
 
-### 🚘 **Car Rental System (Full-Stack)**
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-left: 4px solid #00BFFF;">
+---
 
+<!-- ===================== PROJECT 3 ===================== -->
+
+<h3>
+  <span style="color:#FF6B6B;">🚘 Car Rental System (Full-Stack)</span>
+</h3>
+
+<p>
 Secure booking and vehicle management system with admin workflow.
+</p>
 
-**🎯 Key Features:**
-- ✅ JWT Authentication
-- ✅ Booking lifecycle management
-- ✅ Clean architecture & separation of concerns
-- ✅ Optimized database design
-- ✅ Full-stack integration
+<p><b>🎯 Key Features</b></p>
 
-**💻 Tech Stack:**  
-`Spring Boot` • `JWT` • `MySQL` • `React` • `Bootstrap`
+<p>
+✅ JWT Authentication <br>
+✅ Booking lifecycle management <br>
+✅ Clean architecture & separation of concerns <br>
+✅ Optimized database design
+</p>
 
-</div>
+<p><b>💻 Tech Stack</b></p>
 
-### 🏦 **Bank Management System (ATM – Java 17)**
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square"/>
+</p>
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; border-left: 4px solid #00BFFF;">
+---
 
+<!-- ===================== PROJECT 4 ===================== -->
+
+<h3>
+  <span style="color:#00E5FF;">🏦 Bank Management System (Java 17 ATM)</span>
+</h3>
+
+<p>
 GUI-based desktop banking application with secure transaction handling.
+</p>
 
-**🎯 Key Features:**
-- ✅ Secure login & PIN validation
-- ✅ Deposit & withdrawal processing
-- ✅ Transaction history & mini statement
-- ✅ JDBC integration
-- ✅ JUnit testing
+<p><b>🎯 Key Features</b></p>
 
-**💻 Tech Stack:**  
-`Java 17` • `Swing` • `JDBC` • `MySQL`
+<p>
+✅ Secure login & PIN validation <br>
+✅ Deposit & withdrawal processing <br>
+✅ Transaction history tracking <br>
+✅ JDBC integration
+</p>
 
-</div>
+<p><b>💻 Tech Stack</b></p>
 
-### 🍽️ **Restaurant Order Management System**
+<p>
+<img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Swing-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-003B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square"/>
+</p>
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; border-left: 4px solid #00BFFF;">
+---
 
+<!-- ===================== PROJECT 5 ===================== -->
+
+<h3>
+  <span style="color:#FF9F1C;">🍽️ Restaurant Order Management System</span>
+</h3>
+
+<p>
 Console-based modular billing and order management system.
+</p>
 
-**🎯 Key Features:**
-- ✅ Structured OOP design
-- ✅ Billing & tax logic
-- ✅ Database-backed transaction storage
-- ✅ Email notifications
-- ✅ Modular architecture
+<p><b>🎯 Key Features</b></p>
 
-**💻 Tech Stack:**  
-`Java 8` • `JDBC` • `MySQL` • `Collections Framework`
+<p>
+✅ Structured OOP design <br>
+✅ Billing & tax logic <br>
+✅ Database-backed transaction storage <br>
+✅ Modular architecture
+</p>
+
+<p><b>💻 Tech Stack</b></p>
+
+<p>
+<img src="https://img.shields.io/badge/Java%208-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/JDBC-003B57?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square"/>
+</p>
 
 </div>
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 💻 Technical Skills
-
-<table>
-<tr>
-<td>
 
 ### 🔹 Backend Technologies
 <p>
@@ -188,15 +233,8 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&labelColor=1a1a1a" />
 </p>
 
-</td>
-</tr>
-</table>
 
 ### 🔹 Frontend Technologies
-
-<table>
-<tr>
-<td>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1a1a" />
@@ -205,15 +243,8 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1a1a" />
 </p>
 
-</td>
-</tr>
-</table>
 
 ### 🔹 Cloud & AWS Services
-
-<table>
-<tr>
-<td>
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=1a1a1a" />
@@ -228,10 +259,6 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&labelColor=1a1a1a" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ### 🔹 DevOps & Tools
 <p>
@@ -248,15 +275,8 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white&labelColor=1a1a1a" />
 </p>
 
-</td>
-</tr>
-</table>
 
 ### 🔹 Databases
-
-<table>
-<tr>
-<td>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a1a" />
@@ -266,10 +286,6 @@ Console-based modular billing and order management system.
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&labelColor=1a1a1a" />
   <img src="https://img.shields.io/badge/DB%20Design-005BEA?style=flat-square&labelColor=1a1a1a" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
