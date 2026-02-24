@@ -270,10 +270,9 @@ GUI-based desktop banking application with secure transaction handling.
 
 ## 🚀 Technical Expertise |  📊 Language Distribution
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Senior%20Java%20Backend%20Engineer-0A66C2?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems%20%7C%20Microservices%20Architecture-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Event%20Driven%20Design%20%7C%20Scalable%20APIs-4169E1?style=for-the-badge" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Experience-Java%20Backend%20Engineering-0A66C2?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Architecture-Microservices%20%7C%20Event%20Driven-1E90FF?style=for-the-badge"/> 
 </p>
 
 <p align="center">
