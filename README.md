@@ -247,7 +247,6 @@ Console-based modular billing and order management system.
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-Java%20Backend%20Engineering-0A66C2?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Architecture-Microservices%20%7C%20Event%20Driven-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Kubernetes-2C5364?style=for-the-badge"/>
 </p>
 
 
@@ -289,7 +288,6 @@ Console-based modular billing and order management system.
   <img src="https://komarev.com/ghpvc/?username=gokulfalke17&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:1a1a1a,100:000000&section=footer" />
