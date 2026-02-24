@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0:0F2027,50:203A43,100:2C5364&text=Gokul%20Falke&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&section=header" />
+  
 </p>
 
 
@@ -30,10 +31,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=gokulfalke17&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
-</p>
 
 
 <table>
@@ -287,6 +284,12 @@ Console-based modular billing and order management system.
 ---
 
 <br>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=gokulfalke17&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:1a1a1a,100:000000&section=footer" />
