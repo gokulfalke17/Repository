@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=☕+Java+Full+Stack+Developer;" alt="Typing Animation"/>
 </h3>
 
 <br/>
