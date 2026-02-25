@@ -56,124 +56,23 @@ I am committed to continuous learning, improving system design skills, and build
 
 ---
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-
-### 🌍 **CVS Health – Electronic Prescription Platform**
-
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); color: white; border-left: 4px solid #00BFFF;">
-
-Enterprise-scale **healthcare microservices platform** handling secure electronic prescription processing.
-
-**🎯 Key Highlights:**
-- ✅ Built prescription intake microservices
-- ✅ Implemented NCPDP XML validation & transformation
-- ✅ Kafka-based event-driven routing
-- ✅ Kubernetes-based cloud deployment
-- ✅ High-volume distributed data processing
-- ✅ Business rule engine implementation
-
-**💻 Tech Stack:**  
-
-`Java` • `Spring Boot` • `Kafka` • `Microservices` • `Kubernetes` • `REST APIs`
-
-</div>
 
 <br/>
 
-### 📚 **Library Management System (Full-Stack)**
+## 🐍 Contribution Snake Animation
 
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-left: 4px solid #00BFFF;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gokulfalke17/gokulfalke17/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-Scalable web application for managing book inventory, users, and borrowing lifecycle.
-
-**🎯 Key Features:**
-- ✅ Role-based authentication with Spring Security
-- ✅ Automated fine calculation logic
-- ✅ REST API integration with React frontend
-- ✅ Clean layered architecture
-- ✅ Real-time inventory management
-- ✅ Global exception handling & validation
-
-**💻 Tech Stack:**  
-
-`Java` • `Spring Boot` • `Spring Security` • `JPA` • `MySQL` • `React`
-
-</div>
-
-<br/>
-
-### 🚘 **Car Rental System (Full-Stack)**
-
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; border-left: 4px solid #00BFFF;">
-
-Secure booking and vehicle management system with admin workflow.
-
-**🎯 Key Features:**
-- ✅ JWT Authentication
-- ✅ Booking lifecycle management
-- ✅ Clean architecture & separation of concerns
-- ✅ Optimized database design
-- ✅ Full-stack integration
-
-**💻 Tech Stack:** 
-
-`Spring Boot` • `JWT` • `MySQL` • `React` • `Bootstrap`
-
-</div>
-
-<br/>
-
-
-### 🍽️ **Restaurant Order Management System**
-
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; border-left: 4px solid #00BFFF;">
-
-Console-based modular billing and order management system.
-
-**🎯 Key Features:**
-- ✅ Structured OOP design
-- ✅ Billing & tax logic
-- ✅ Database-backed transaction storage
-- ✅ Email notifications
-- ✅ Modular architecture
-
-**💻 Tech Stack:**  
-
-`Java 8` • `JDBC` • `MySQL` • `Collections Framework`
-
-</div>
-
-<br/>
-
-### 🏦 **Bank Management System (ATM – Java 17)**
-
-<div style="border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; border-left: 4px solid #00BFFF;">
-
-GUI-based desktop banking application with secure transaction handling.
-
-**🎯 Key Features:**
-- ✅ Secure login & PIN validation
-- ✅ Deposit & withdrawal processing
-- ✅ Transaction history & mini statement
-- ✅ JDBC integration
-- ✅ JUnit testing
-
-**💻 Tech Stack:**  
-
-`Java 17` • `Swing` • `JDBC` • `MySQL`
-
-</div>
-
-</div>
+<p align="center">
+  <sub>⚡ Dynamic visualization of my daily GitHub contributions</sub>
+</p>
 
 ---
 
-<br/>
 
+<br/>
 
 ## 💻 Technical Skills
 
